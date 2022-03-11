@@ -1,0 +1,55 @@
+body{
+    background-color: #f0a7ff;
+}
+.unvisible {
+    display: none;
+}
+#add-form-save-btn {
+    border-color: #d056e9;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #d056e9 inset, 0 0 0 0 #d056e9;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    border-radius: 20px;
+    
+  }
+#add-form-save-btn:hover {
+    box-shadow: 0 0 10px 0 #d056e9 inset, 0 0 10px 4px #d056e9;
+}
+#close-btn {
+    border-color: #d056e9;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #d056e9 inset, 0 0 0 0 #d056e9;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    border-radius: 20px;
+    
+  }
+#close-btn:hover {
+    box-shadow: 0 0 10px 0 #d056e9 inset, 0 0 10px 4px #d056e9;
+    color: rgb(109, 105, 105);
+}
+#btn-next{
+    border-color: #d056e9;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #d056e9 inset, 0 0 0 0 #d056e9;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    border-radius: 20px;
+}
+#btn-next:hover{
+    box-shadow: 0 0 10px 0 #d056e9 inset, 0 0 10px 4px #d056e9;
+    color: rgb(109, 105, 105);
+}
+#btn-prev{
+    border-color: #d056e9;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #d056e9 inset, 0 0 0 0 #d056e9;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    border-radius: 20px;
+}
+#btn-prev:hover{
+    box-shadow: 0 0 10px 0 #d056e9 inset, 0 0 10px 4px #d056e9;
+    color: rgb(109, 105, 105);
+}
